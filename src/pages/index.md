@@ -1,11 +1,11 @@
 ---
 templateKey: index-page
 title: Great coffee with a conscience
-image: /img/top_mercedes_1360x300.2b835edb.jpg
+image: /img/products-grid1.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
-  title: Why Kaldi
+  title: Why Kaldi (test)
   description: >
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
